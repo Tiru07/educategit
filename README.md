@@ -1,0 +1,2 @@
+# educategit
+to learn git
